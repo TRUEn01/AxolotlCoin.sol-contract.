@@ -6,5 +6,4 @@ Puedes interactuar con el contrato AxolotlCoin (AXO) directamente desde BscScan.
 3. Selecciona **Write Contract** para ejecutar funciones como `transfer`, `approve`, `mint`, o `burn`.
 4. Selecciona **Read Contract** para consultar información como `balanceOf`, `totalSupply`, o el propietario del contrato (`owner`).
 5. Conecta tu wallet a BscScan para realizar transacciones.
-
 Asegúrate de tener BNB suficiente en tu wallet para cubrir las tarifas de gas.
